@@ -23,7 +23,11 @@ Cookie: PHPSESSID=[REDACTED]
 Connection: close
 ```
 
+## Proof of Concept (POC):
+
+
 ## Screenshot
+![2024-03-05 17_05_18-VirtualBoxVM](https://github.com/dumiAron/CVE/assets/110510895/e49acdb1-1980-4a25-8eea-a8bd336c3564)
 
 
 ## **Credits**
